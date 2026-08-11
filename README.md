@@ -65,4 +65,7 @@ The Vue app will be on:
 
 Now test the app in your browser
 
+## Screenshot 
+<img src="Capture2.PNG" alt="screenshot of app" width="500">
+
 ## Author Liam De Wet
